@@ -31,12 +31,4 @@ UI Design Practice
 
 ---
 
-## 🎨 Figma Design
 
-(Add your Figma link here)
-
----
-
-## 📷 Screenshots
-
-(Add screenshots here later.)
